@@ -1,0 +1,4 @@
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download" ;*/*:dumpStructureTo /private/var/folders/zg/5jkt5ylx1md7mrg28gy8kjgr0000gn/T/sbt-structure.xml
+ls
+df.show()
+df.take(5).foreach(println)
